@@ -15,6 +15,9 @@ lerna-debug.log*
 .vscode
 .vscode/*
 
+test
+test/*
+
 # OS
 .DS_Store
 
